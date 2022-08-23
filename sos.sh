@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script para resolver problemas no chaveiro chaveiro
+#Script para resolver problemas no chaveiro do Biglinux
 
 # Menu para múltiplas opções
 
@@ -21,4 +21,5 @@ Import=$( dialog --title "Importar chave" --inputbox "complete o comando" 0 0 "g
 
 fi     
           
-
+# Criado por Jorge Felipe dos Santos Júnior
+# Data da criação: 23/08/2022
